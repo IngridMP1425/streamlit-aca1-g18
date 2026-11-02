@@ -1,0 +1,427 @@
+Order Year,Order Month,Segment,Category,Sales
+2015,1,Consumer,Furniture,3312.357
+2015,1,Consumer,Office Supplies,2578.9919999999997
+2015,1,Consumer,Technology,1005.28
+2015,1,Corporate,Furniture,255.86
+2015,1,Corporate,Office Supplies,798.9280000000001
+2015,1,Corporate,Technology,646.74
+2015,1,Home Office,Furniture,2649.06
+2015,1,Home Office,Office Supplies,1467.22
+2015,1,Home Office,Technology,1491.27
+2015,10,Consumer,Furniture,6940.996999999999
+2015,10,Consumer,Office Supplies,2506.974
+2015,10,Consumer,Technology,6798.726000000001
+2015,10,Corporate,Furniture,4906.7480000000005
+2015,10,Corporate,Office Supplies,3674.7019999999998
+2015,10,Corporate,Technology,4056.228
+2015,10,Home Office,Furniture,456.502
+2015,10,Home Office,Office Supplies,1029.452
+2015,10,Home Office,Technology,1083.064
+2015,11,Consumer,Furniture,13961.126
+2015,11,Consumer,Office Supplies,13041.574
+2015,11,Consumer,Technology,19225.798
+2015,11,Corporate,Furniture,5949.8747
+2015,11,Corporate,Office Supplies,11206.148000000001
+2015,11,Corporate,Technology,3744.208
+2015,11,Home Office,Furniture,1560.04
+2015,11,Home Office,Office Supplies,2115.474
+2015,11,Home Office,Technology,7103.418
+2015,12,Consumer,Furniture,17175.4945
+2015,12,Consumer,Office Supplies,6816.094
+2015,12,Consumer,Technology,11987.836
+2015,12,Corporate,Furniture,8064.702
+2015,12,Corporate,Office Supplies,8278.23
+2015,12,Corporate,Technology,4230.624
+2015,12,Home Office,Furniture,5397.146
+2015,12,Home Office,Office Supplies,1862.1680000000001
+2015,12,Home Office,Technology,4354.764
+2015,2,Consumer,Furniture,1804.778
+2015,2,Consumer,Office Supplies,478.76599999999996
+2015,2,Consumer,Technology,884.31
+2015,2,Corporate,Furniture,20.32
+2015,2,Corporate,Office Supplies,439.148
+2015,2,Corporate,Technology,724.2
+2015,2,Home Office,Furniture,14.56
+2015,2,Home Office,Office Supplies,153.81
+2015,3,Consumer,Furniture,6054.268
+2015,3,Consumer,Office Supplies,4522.05
+2015,3,Consumer,Technology,1292.9859999999999
+2015,3,Corporate,Furniture,4825.312
+2015,3,Corporate,Office Supplies,1416.703
+2015,3,Corporate,Technology,4710.16
+2015,3,Home Office,Furniture,3363.788
+2015,3,Home Office,Office Supplies,2663.702
+2015,3,Home Office,Technology,26356.828
+2015,4,Consumer,Furniture,1778.6280000000002
+2015,4,Consumer,Office Supplies,2671.06
+2015,4,Consumer,Technology,4658.924
+2015,4,Corporate,Furniture,3272.583
+2015,4,Corporate,Office Supplies,7632.502
+2015,4,Corporate,Technology,2838.154
+2015,4,Home Office,Furniture,2893.626
+2015,4,Home Office,Office Supplies,685.312
+2015,4,Home Office,Technology,1476.0659999999998
+2015,5,Consumer,Furniture,3856.453
+2015,5,Consumer,Office Supplies,1552.156
+2015,5,Consumer,Technology,7406.57
+2015,5,Corporate,Furniture,3056.334
+2015,5,Corporate,Office Supplies,3892.36
+2015,5,Corporate,Technology,2193.306
+2015,5,Home Office,Office Supplies,1687.124
+2015,6,Consumer,Furniture,8311.2436
+2015,6,Consumer,Office Supplies,9240.283
+2015,6,Consumer,Technology,8100.029
+2015,6,Corporate,Furniture,2545.218
+2015,6,Corporate,Office Supplies,1161.736
+2015,6,Corporate,Technology,263.96
+2015,6,Home Office,Furniture,2288.12
+2015,6,Home Office,Office Supplies,2340.37
+2015,6,Home Office,Technology,71.976
+2015,7,Consumer,Furniture,2518.544
+2015,7,Consumer,Office Supplies,12212.108
+2015,7,Consumer,Technology,5302.238
+2015,7,Corporate,Furniture,5934.588
+2015,7,Corporate,Office Supplies,1855.562
+2015,7,Corporate,Technology,2242.8379999999997
+2015,7,Home Office,Furniture,2367.919
+2015,7,Home Office,Office Supplies,1053.538
+2015,7,Home Office,Technology,294.208
+2015,8,Consumer,Furniture,3852.7525
+2015,8,Consumer,Office Supplies,6885.537
+2015,8,Consumer,Technology,4685.042
+2015,8,Corporate,Furniture,3218.578
+2015,8,Corporate,Office Supplies,2648.392
+2015,8,Corporate,Technology,1584.804
+2015,8,Home Office,Furniture,53.88
+2015,8,Home Office,Office Supplies,1521.347
+2015,8,Home Office,Technology,2667.2039999999997
+2015,9,Consumer,Furniture,16178.652
+2015,9,Consumer,Office Supplies,20136.054
+2015,9,Consumer,Technology,23222.12
+2015,9,Corporate,Furniture,2981.453
+2015,9,Corporate,Office Supplies,5738.67
+2015,9,Corporate,Technology,6787.622
+2015,9,Home Office,Furniture,4656.3758
+2015,9,Home Office,Office Supplies,1548.574
+2015,9,Home Office,Technology,374.00600000000003
+2016,1,Consumer,Furniture,10778.9436
+2016,1,Consumer,Office Supplies,590.318
+2016,1,Consumer,Technology,2905.722
+2016,1,Corporate,Furniture,644.67
+2016,1,Corporate,Office Supplies,1018.162
+2016,1,Corporate,Technology,1612.514
+2016,1,Home Office,Furniture,316.328
+2016,1,Home Office,Office Supplies,200.3
+2016,10,Consumer,Furniture,7901.7585
+2016,10,Consumer,Office Supplies,3754.556
+2016,10,Consumer,Technology,5472.554
+2016,10,Corporate,Furniture,1718.025
+2016,10,Corporate,Office Supplies,2624.118
+2016,10,Corporate,Technology,3911.04
+2016,10,Home Office,Furniture,2044.704
+2016,10,Home Office,Office Supplies,2263.686
+2016,10,Home Office,Technology,1321.296
+2016,11,Consumer,Furniture,14098.1077
+2016,11,Consumer,Office Supplies,10497.532
+2016,11,Consumer,Technology,7828.029
+2016,11,Corporate,Furniture,10877.6188
+2016,11,Corporate,Office Supplies,7504.246
+2016,11,Corporate,Technology,8917.78
+2016,11,Home Office,Furniture,5221.773999999999
+2016,11,Home Office,Office Supplies,3176.52
+2016,11,Home Office,Technology,7127.792
+2016,12,Consumer,Furniture,8576.293
+2016,12,Consumer,Office Supplies,9990.405999999999
+2016,12,Consumer,Technology,20995.272
+2016,12,Corporate,Furniture,5502.291
+2016,12,Corporate,Office Supplies,3451.298
+2016,12,Corporate,Technology,6976.312
+2016,12,Home Office,Furniture,8733.6672
+2016,12,Home Office,Office Supplies,2657.618
+2016,12,Home Office,Technology,7660.444
+2016,2,Consumer,Furniture,2371.868
+2016,2,Consumer,Office Supplies,4549.860000000001
+2016,2,Consumer,Technology,2347.29
+2016,2,Corporate,Furniture,762.506
+2016,2,Corporate,Office Supplies,701.071
+2016,2,Corporate,Technology,1101.68
+2016,2,Home Office,Office Supplies,117.136
+2016,3,Consumer,Furniture,3799.671
+2016,3,Consumer,Office Supplies,10954.859
+2016,3,Consumer,Technology,2664.36
+2016,3,Corporate,Furniture,1787.3483999999999
+2016,3,Corporate,Office Supplies,2288.6
+2016,3,Corporate,Technology,6318.186
+2016,3,Home Office,Furniture,3135.618
+2016,3,Home Office,Office Supplies,229.28
+2016,3,Home Office,Technology,1161.3960000000002
+2016,4,Consumer,Furniture,7408.1635
+2016,4,Consumer,Office Supplies,5704.892
+2016,4,Consumer,Technology,9513.35
+2016,4,Corporate,Furniture,1838.85
+2016,4,Corporate,Office Supplies,691.4300000000001
+2016,4,Corporate,Technology,1590.7640000000001
+2016,4,Home Office,Furniture,1228.685
+2016,4,Home Office,Office Supplies,6121.495999999999
+2016,4,Home Office,Technology,56.838
+2016,5,Consumer,Furniture,6412.597
+2016,5,Consumer,Office Supplies,5403.234
+2016,5,Consumer,Technology,8976.248
+2016,5,Corporate,Furniture,1992.2455
+2016,5,Corporate,Office Supplies,1594.198
+2016,5,Corporate,Technology,1868.496
+2016,5,Home Office,Furniture,970.108
+2016,5,Home Office,Office Supplies,1944.148
+2016,5,Home Office,Technology,798.256
+2016,6,Consumer,Furniture,1854.708
+2016,6,Consumer,Office Supplies,6810.38
+2016,6,Consumer,Technology,4159.416
+2016,6,Corporate,Furniture,4728.126
+2016,6,Corporate,Office Supplies,2120.349
+2016,6,Corporate,Technology,1618.006
+2016,6,Home Office,Furniture,958.137
+2016,6,Home Office,Office Supplies,692.308
+2016,6,Home Office,Technology,657.944
+2016,7,Consumer,Furniture,9012.088
+2016,7,Consumer,Office Supplies,2579.333
+2016,7,Consumer,Technology,8200.326000000001
+2016,7,Corporate,Furniture,3896.372
+2016,7,Corporate,Office Supplies,1540.538
+2016,7,Corporate,Technology,1754.79
+2016,7,Home Office,Furniture,758.5799999999999
+2016,7,Home Office,Office Supplies,586.372
+2016,7,Home Office,Technology,279.86
+2016,8,Consumer,Furniture,2828.147
+2016,8,Consumer,Office Supplies,8776.418
+2016,8,Consumer,Technology,8905.28
+2016,8,Corporate,Furniture,4422.2972
+2016,8,Corporate,Office Supplies,1785.118
+2016,8,Corporate,Technology,5248.344
+2016,8,Home Office,Furniture,2388.148
+2016,8,Home Office,Office Supplies,1173.5720000000001
+2016,8,Home Office,Technology,1291.018
+2016,9,Consumer,Furniture,18590.891
+2016,9,Consumer,Office Supplies,9937.052
+2016,9,Consumer,Technology,10206.37
+2016,9,Corporate,Furniture,2486.524
+2016,9,Corporate,Office Supplies,6111.637
+2016,9,Corporate,Technology,6670.048
+2016,9,Home Office,Furniture,4008.008
+2016,9,Home Office,Office Supplies,2982.366
+2016,9,Home Office,Technology,2140.71
+2017,1,Consumer,Furniture,3347.801
+2017,1,Consumer,Office Supplies,1039.526
+2017,1,Consumer,Technology,1639.3220000000001
+2017,1,Corporate,Furniture,3897.3599999999997
+2017,1,Corporate,Office Supplies,2554.682
+2017,1,Corporate,Technology,3033.082
+2017,1,Home Office,Furniture,377.582
+2017,1,Home Office,Office Supplies,1705.474
+2017,1,Home Office,Technology,947.662
+2017,10,Consumer,Furniture,4176.751
+2017,10,Consumer,Office Supplies,2662.859
+2017,10,Consumer,Technology,3273.2799999999997
+2017,10,Corporate,Furniture,6338.388
+2017,10,Corporate,Office Supplies,4849.089
+2017,10,Corporate,Technology,20943.068
+2017,10,Home Office,Furniture,1297.8700000000001
+2017,10,Home Office,Office Supplies,8724.702
+2017,10,Home Office,Technology,7317.026
+2017,11,Consumer,Furniture,16452.8218
+2017,11,Consumer,Office Supplies,9534.276
+2017,11,Consumer,Technology,15117.295
+2017,11,Corporate,Furniture,10951.25
+2017,11,Corporate,Office Supplies,6867.406
+2017,11,Corporate,Technology,8674.524
+2017,11,Home Office,Furniture,4379.557
+2017,11,Home Office,Office Supplies,3740.1259999999997
+2017,11,Home Office,Technology,3349.24
+2017,12,Consumer,Furniture,22171.305
+2017,12,Consumer,Office Supplies,19900.218
+2017,12,Consumer,Technology,7223.466
+2017,12,Corporate,Furniture,12367.375
+2017,12,Corporate,Office Supplies,11608.315
+2017,12,Corporate,Technology,11359.996000000001
+2017,12,Home Office,Furniture,2066.285
+2017,12,Home Office,Office Supplies,5824.405
+2017,12,Home Office,Technology,3217.7560000000003
+2017,2,Consumer,Furniture,2951.515
+2017,2,Consumer,Office Supplies,3176.144
+2017,2,Consumer,Technology,9672.568000000001
+2017,2,Corporate,Furniture,715.216
+2017,2,Corporate,Office Supplies,1282.978
+2017,2,Corporate,Technology,868.69
+2017,2,Home Office,Furniture,258.82
+2017,2,Home Office,Office Supplies,2335.228
+2017,2,Home Office,Technology,1717.656
+2017,3,Consumer,Furniture,6900.69
+2017,3,Consumer,Office Supplies,7965.329
+2017,3,Consumer,Technology,9978.972
+2017,3,Corporate,Furniture,3595.56
+2017,3,Corporate,Office Supplies,7862.363
+2017,3,Corporate,Technology,2217.734
+2017,3,Home Office,Furniture,1776.4119999999998
+2017,3,Home Office,Office Supplies,1496.8529999999998
+2017,3,Home Office,Technology,9371.146
+2017,4,Consumer,Furniture,6744.432
+2017,4,Consumer,Office Supplies,6201.286
+2017,4,Consumer,Technology,1059.2579999999998
+2017,4,Corporate,Furniture,2828.434
+2017,4,Corporate,Office Supplies,2566.48
+2017,4,Corporate,Technology,10782.462
+2017,4,Home Office,Furniture,3639.224
+2017,4,Home Office,Office Supplies,1809.4089999999999
+2017,4,Home Office,Technology,3048.782
+2017,5,Consumer,Furniture,4638.171
+2017,5,Consumer,Office Supplies,6743.259
+2017,5,Consumer,Technology,20793.204999999998
+2017,5,Corporate,Furniture,9078.132
+2017,5,Corporate,Office Supplies,2583.846
+2017,5,Corporate,Technology,6459.46
+2017,5,Home Office,Furniture,1176.272
+2017,5,Home Office,Office Supplies,3604.5370000000003
+2017,5,Home Office,Technology,1580.026
+2017,6,Consumer,Furniture,6570.943
+2017,6,Consumer,Office Supplies,6326.4619999999995
+2017,6,Consumer,Technology,10442.446
+2017,6,Corporate,Furniture,4192.39
+2017,6,Corporate,Office Supplies,2694.248
+2017,6,Corporate,Technology,830.768
+2017,6,Home Office,Furniture,1687.191
+2017,6,Home Office,Office Supplies,1881.1000000000001
+2017,6,Home Office,Technology,5098.938
+2017,7,Consumer,Furniture,7103.929
+2017,7,Consumer,Office Supplies,7567.622
+2017,7,Consumer,Technology,7960.296
+2017,7,Corporate,Furniture,5113.01
+2017,7,Corporate,Office Supplies,4494.019
+2017,7,Corporate,Technology,2620.71
+2017,7,Home Office,Furniture,352.82000000000005
+2017,7,Home Office,Office Supplies,842.183
+2017,7,Home Office,Technology,2266.194
+2017,8,Consumer,Furniture,3167.6418
+2017,8,Consumer,Office Supplies,4945.952
+2017,8,Consumer,Technology,5198.796
+2017,8,Corporate,Furniture,7022.7045
+2017,8,Corporate,Office Supplies,2296.2659999999996
+2017,8,Corporate,Technology,3624.5
+2017,8,Home Office,Furniture,1719.712
+2017,8,Home Office,Office Supplies,1717.522
+2017,8,Home Office,Technology,849.106
+2017,9,Consumer,Furniture,14491.3416
+2017,9,Consumer,Office Supplies,9587.894
+2017,9,Consumer,Technology,14415.892
+2017,9,Corporate,Furniture,9762.2333
+2017,9,Corporate,Office Supplies,4263.601
+2017,9,Corporate,Technology,3776.978
+2017,9,Home Office,Furniture,2501.9
+2017,9,Home Office,Office Supplies,9161.907
+2017,9,Home Office,Technology,1231.644
+2018,1,Consumer,Furniture,3662.06
+2018,1,Consumer,Office Supplies,12971.753
+2018,1,Consumer,Technology,6441.8279999999995
+2018,1,Corporate,Furniture,1986.9180000000001
+2018,1,Corporate,Office Supplies,5889.274
+2018,1,Corporate,Technology,4345.04
+2018,1,Home Office,Furniture,281.184
+2018,1,Home Office,Office Supplies,2191.952
+2018,1,Home Office,Technology,5706.465
+2018,10,Consumer,Furniture,9658.0612
+2018,10,Consumer,Office Supplies,8117.049
+2018,10,Consumer,Technology,5090.338
+2018,10,Corporate,Furniture,8289.741
+2018,10,Corporate,Office Supplies,8737.654999999999
+2018,10,Corporate,Technology,7849.772
+2018,10,Home Office,Furniture,3936.2659999999996
+2018,10,Home Office,Office Supplies,5853.696
+2018,10,Home Office,Technology,19915.553
+2018,11,Consumer,Furniture,16925.4788
+2018,11,Consumer,Office Supplies,12784.546
+2018,11,Consumer,Technology,19856.46
+2018,11,Corporate,Furniture,7998.8702
+2018,11,Corporate,Office Supplies,12943.423
+2018,11,Corporate,Technology,23415.693
+2018,11,Home Office,Furniture,12132.366
+2018,11,Home Office,Office Supplies,5744.368
+2018,11,Home Office,Technology,6136.95
+2018,12,Consumer,Furniture,19704.8528
+2018,12,Consumer,Office Supplies,15355.057
+2018,12,Consumer,Technology,14373.616
+2018,12,Corporate,Furniture,6787.773
+2018,12,Corporate,Office Supplies,11309.507
+2018,12,Corporate,Technology,2427.152
+2018,12,Home Office,Furniture,4914.841
+2018,12,Home Office,Office Supplies,2973.448
+2018,12,Home Office,Technology,5184.142000000001
+2018,2,Consumer,Furniture,1983.05
+2018,2,Consumer,Office Supplies,2220.883
+2018,2,Consumer,Technology,1005.008
+2018,2,Corporate,Furniture,1217.066
+2018,2,Corporate,Office Supplies,3854.578
+2018,2,Corporate,Technology,2887.614
+2018,2,Home Office,Furniture,3574.2614
+2018,2,Home Office,Office Supplies,1302.711
+2018,2,Home Office,Technology,1875.826
+2018,3,Consumer,Furniture,6822.934
+2018,3,Consumer,Office Supplies,7567.356
+2018,3,Consumer,Technology,20651.232
+2018,3,Corporate,Furniture,3350.2108
+2018,3,Corporate,Office Supplies,4960.798
+2018,3,Corporate,Technology,8254.674
+2018,3,Home Office,Furniture,720.3
+2018,3,Home Office,Office Supplies,2013.192
+2018,3,Home Office,Technology,4522.716
+2018,4,Consumer,Furniture,2721.134
+2018,4,Consumer,Office Supplies,3753.42
+2018,4,Consumer,Technology,2560.37
+2018,4,Corporate,Furniture,3835.9336
+2018,4,Corporate,Office Supplies,5319.229
+2018,4,Corporate,Technology,5647.852
+2018,4,Home Office,Furniture,2508.8905
+2018,4,Home Office,Office Supplies,5142.298
+2018,4,Home Office,Technology,4052.7830000000004
+2018,5,Consumer,Furniture,8809.6754
+2018,5,Consumer,Office Supplies,6077.892
+2018,5,Consumer,Technology,5737.042
+2018,5,Corporate,Furniture,6174.3548
+2018,5,Corporate,Office Supplies,5752.06
+2018,5,Corporate,Technology,2313.42
+2018,5,Home Office,Furniture,1973.528
+2018,5,Home Office,Office Supplies,1663.852
+2018,5,Home Office,Technology,5324.158
+2018,6,Consumer,Furniture,9180.8617
+2018,6,Consumer,Office Supplies,5166.224
+2018,6,Consumer,Technology,5748.222
+2018,6,Corporate,Furniture,2486.3
+2018,6,Corporate,Office Supplies,6806.312
+2018,6,Corporate,Technology,5789.24
+2018,6,Home Office,Furniture,5365.224999999999
+2018,6,Home Office,Office Supplies,2248.565
+2018,6,Home Office,Technology,5399.778
+2018,7,Consumer,Furniture,6719.279
+2018,7,Consumer,Office Supplies,4231.458
+2018,7,Consumer,Technology,7601.324
+2018,7,Corporate,Furniture,3416.009
+2018,7,Corporate,Office Supplies,3312.762
+2018,7,Corporate,Technology,9796.828
+2018,7,Home Office,Furniture,1240.534
+2018,7,Home Office,Office Supplies,2695.136
+2018,7,Home Office,Technology,5811.773999999999
+2018,8,Consumer,Furniture,8288.083999999999
+2018,8,Consumer,Office Supplies,13726.898000000001
+2018,8,Consumer,Technology,9331.122
+2018,8,Corporate,Furniture,5470.3
+2018,8,Corporate,Office Supplies,14023.7
+2018,8,Corporate,Technology,6184.444
+2018,8,Home Office,Furniture,1660.738
+2018,8,Home Office,Office Supplies,2048.966
+2018,8,Home Office,Technology,2103.596
+2018,9,Consumer,Furniture,15124.915
+2018,9,Consumer,Office Supplies,19538.757
+2018,9,Consumer,Technology,9096.231
+2018,9,Corporate,Furniture,7757.728
+2018,9,Corporate,Office Supplies,7124.099
+2018,9,Corporate,Technology,8327.332
+2018,9,Home Office,Furniture,5634.063
+2018,9,Home Office,Office Supplies,4944.667
+2018,9,Home Office,Technology,8605.096
