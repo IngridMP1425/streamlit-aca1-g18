@@ -1,4 +1,4 @@
-streamlit>=1.40.0
+streamlit
 
 pandas
 numpy
@@ -6,5 +6,4 @@ plotly
 scikit-learn
 xgboost
 matplotlib
-sklearn
 seaborn
